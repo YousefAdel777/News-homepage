@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/news-homepage-with-grid-and-vanilla-javascript-kfcP35eyNV)
+- Live Site URL: (https://yousefadel777.github.io/News-homepage/)
 
 ## My process
 
